@@ -10,3 +10,5 @@ com/kodilla/patterns/enums/hotel/HotelApp.java
  com.kodilla.patterns.enums.hotel.HotelApp
 com/kodilla/patterns/singleton/SettingsFileEngine.java
  com.kodilla.patterns.singleton.SettingsFileEngine
+com/kodilla/patterns/singleton/Logger.java
+ com.kodilla.patterns.singleton.Logger
