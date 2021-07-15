@@ -1,0 +1,2 @@
+com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.java
+ com.kodilla.patterns.singleton.SettingsFileEngineTestSuite

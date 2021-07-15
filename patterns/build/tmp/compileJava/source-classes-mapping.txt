@@ -1,0 +1,12 @@
+PatternsRunner.java
+ PatternsRunner
+com/kodilla/patterns/PatternsRunner.java
+ com.kodilla.patterns.PatternsRunner
+com/kodilla/patterns/enums/hotel/PriceList.java
+ com.kodilla.patterns.enums.hotel.PriceList
+com/kodilla/patterns/enums/hotel/Season.java
+ com.kodilla.patterns.enums.hotel.Season
+com/kodilla/patterns/enums/hotel/HotelApp.java
+ com.kodilla.patterns.enums.hotel.HotelApp
+com/kodilla/patterns/singleton/SettingsFileEngine.java
+ com.kodilla.patterns.singleton.SettingsFileEngine
