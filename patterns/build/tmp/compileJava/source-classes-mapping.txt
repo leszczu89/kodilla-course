@@ -40,3 +40,19 @@ com/kodilla/patterns/strategy/IndividualYoungCustomer.java
  com.kodilla.patterns.strategy.IndividualYoungCustomer
 com/kodilla/patterns/strategy/CorporateCustomer.java
  com.kodilla.patterns.strategy.CorporateCustomer
+com/kodilla/patterns/strategy/social/User.java
+ com.kodilla.patterns.strategy.social.User
+com/kodilla/patterns/strategy/social/Millenials.java
+ com.kodilla.patterns.strategy.social.Millenials
+com/kodilla/patterns/strategy/social/publisher/FacebookPublisher.java
+ com.kodilla.patterns.strategy.social.publisher.FacebookPublisher
+com/kodilla/patterns/strategy/social/YGeneration.java
+ com.kodilla.patterns.strategy.social.YGeneration
+com/kodilla/patterns/strategy/social/publisher/SnapchatPublisher.java
+ com.kodilla.patterns.strategy.social.publisher.SnapchatPublisher
+com/kodilla/patterns/strategy/social/ZGeneration.java
+ com.kodilla.patterns.strategy.social.ZGeneration
+com/kodilla/patterns/strategy/social/SocialPublisher.java
+ com.kodilla.patterns.strategy.social.SocialPublisher
+com/kodilla/patterns/strategy/social/publisher/TwitterPublisher.java
+ com.kodilla.patterns.strategy.social.publisher.TwitterPublisher

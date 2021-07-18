@@ -8,3 +8,5 @@ com/kodilla/patterns/prototype/library/LibraryTestSuite.java
  com.kodilla.patterns.prototype.library.LibraryTestSuite
 com/kodilla/patterns/strategy/CustomerTestSuite.java
  com.kodilla.patterns.strategy.CustomerTestSuite
+com/kodilla/patterns/strategy/social/UserTestSuite.java
+ com.kodilla.patterns.strategy.social.UserTestSuite
