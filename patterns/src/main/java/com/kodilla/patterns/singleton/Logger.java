@@ -14,4 +14,5 @@ public enum Logger {
     public String getLastLog() {
         return lastLog;
     }
+
 }
