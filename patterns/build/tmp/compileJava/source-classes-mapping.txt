@@ -18,5 +18,9 @@ com/kodilla/patterns/singleton/Logger.java
  com.kodilla.patterns.singleton.Logger
 com/kodilla/patterns/prototype/Prototype.java
  com.kodilla.patterns.prototype.Prototype
+com/kodilla/patterns/prototype/library/Book.java
+ com.kodilla.patterns.prototype.library.Book
 com/kodilla/patterns/prototype/Board.java
  com.kodilla.patterns.prototype.Board
+com/kodilla/patterns/prototype/library/Library.java
+ com.kodilla.patterns.prototype.library.Library

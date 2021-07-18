@@ -4,3 +4,5 @@ com/kodilla/patterns/singleton/LoggerTestSuite.java
  com.kodilla.patterns.singleton.LoggerTestSuite
 com/kodilla/patterns/prototype/BoardTestSuite.java
  com.kodilla.patterns.prototype.BoardTestSuite
+com/kodilla/patterns/prototype/library/LibraryTestSuite.java
+ com.kodilla.patterns.prototype.library.LibraryTestSuite

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.patterns.prototype.library.LibraryTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-18T12:15:26" hostname="LAPTOP-GILLPKA7" time="0.103">
+  <properties/>
+  <testcase name="testGetBooks()" classname="com.kodilla.patterns.prototype.library.LibraryTestSuite" time="0.103"/>
+  <system-out><![CDATA[
+Libraries before addition: 
+Prototype library
+[Book{title='Second book', author='Second author', publicationDate=2012-01-12}, Book{title='First book', author='First author', publicationDate=1999-12-01}, Book{title='Third book', author='Third author', publicationDate=2020-05-03}]
+Shallow cloned library
+[Book{title='Second book', author='Second author', publicationDate=2012-01-12}, Book{title='First book', author='First author', publicationDate=1999-12-01}, Book{title='Third book', author='Third author', publicationDate=2020-05-03}]
+Deep cloned library
+[Book{title='Second book', author='Second author', publicationDate=2012-01-12}, Book{title='First book', author='First author', publicationDate=1999-12-01}, Book{title='Third book', author='Third author', publicationDate=2020-05-03}]
+
+Libraries after addition: 
+Prototype library
+[Book{title='New title', author='New author', publicationDate=2021-07-18}, Book{title='Second book', author='Second author', publicationDate=2012-01-12}, Book{title='First book', author='First author', publicationDate=1999-12-01}, Book{title='Third book', author='Third author', publicationDate=2020-05-03}]
+Shallow cloned library
+[Book{title='New title', author='New author', publicationDate=2021-07-18}, Book{title='Second book', author='Second author', publicationDate=2012-01-12}, Book{title='First book', author='First author', publicationDate=1999-12-01}, Book{title='Third book', author='Third author', publicationDate=2020-05-03}]
+Deep cloned library
+[Book{title='Second book', author='Second author', publicationDate=2012-01-12}, Book{title='First book', author='First author', publicationDate=1999-12-01}, Book{title='Third book', author='Third author', publicationDate=2020-05-03}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
