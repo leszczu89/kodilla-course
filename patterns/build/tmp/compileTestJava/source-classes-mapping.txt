@@ -12,3 +12,5 @@ com/kodilla/patterns/strategy/social/UserTestSuite.java
  com.kodilla.patterns.strategy.social.UserTestSuite
 com/kodilla/patterns/factory/ShapeFactoryTestSuite.java
  com.kodilla.patterns.factory.ShapeFactoryTestSuite
+com/kodilla/patterns/factory/tasks/TaskFactoryTestSuite.java
+ com.kodilla.patterns.factory.tasks.TaskFactoryTestSuite

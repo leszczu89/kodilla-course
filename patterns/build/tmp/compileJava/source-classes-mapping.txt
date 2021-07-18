@@ -66,3 +66,13 @@ com/kodilla/patterns/factory/Circle.java
  com.kodilla.patterns.factory.Circle
 com/kodilla/patterns/factory/ShapeFactory.java
  com.kodilla.patterns.factory.ShapeFactory
+com/kodilla/patterns/factory/tasks/ShoppingTask.java
+ com.kodilla.patterns.factory.tasks.ShoppingTask
+com/kodilla/patterns/factory/tasks/TaskFactory.java
+ com.kodilla.patterns.factory.tasks.TaskFactory
+com/kodilla/patterns/factory/tasks/PaintingTask.java
+ com.kodilla.patterns.factory.tasks.PaintingTask
+com/kodilla/patterns/factory/tasks/DrivingTask.java
+ com.kodilla.patterns.factory.tasks.DrivingTask
+com/kodilla/patterns/factory/tasks/Task.java
+ com.kodilla.patterns.factory.tasks.Task
