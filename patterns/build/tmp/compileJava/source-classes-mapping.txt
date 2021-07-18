@@ -1,14 +1,20 @@
-PatternsRunner.java
- PatternsRunner
-com/kodilla/patterns/PatternsRunner.java
- com.kodilla.patterns.PatternsRunner
 com/kodilla/patterns/enums/hotel/PriceList.java
  com.kodilla.patterns.enums.hotel.PriceList
-com/kodilla/patterns/enums/hotel/Season.java
- com.kodilla.patterns.enums.hotel.Season
-com/kodilla/patterns/enums/hotel/HotelApp.java
- com.kodilla.patterns.enums.hotel.HotelApp
-com/kodilla/patterns/singleton/SettingsFileEngine.java
- com.kodilla.patterns.singleton.SettingsFileEngine
+com/kodilla/patterns/prototype/TasksList.java
+ com.kodilla.patterns.prototype.TasksList
 com/kodilla/patterns/singleton/Logger.java
  com.kodilla.patterns.singleton.Logger
+com/kodilla/patterns/singleton/SettingsFileEngine.java
+ com.kodilla.patterns.singleton.SettingsFileEngine
+com/kodilla/patterns/PatternsRunner.java
+ com.kodilla.patterns.PatternsRunner
+com/kodilla/patterns/enums/hotel/Season.java
+ com.kodilla.patterns.enums.hotel.Season
+com/kodilla/patterns/prototype/Board.java
+ com.kodilla.patterns.prototype.Board
+com/kodilla/patterns/prototype/Task.java
+ com.kodilla.patterns.prototype.Task
+com/kodilla/patterns/enums/hotel/HotelApp.java
+ com.kodilla.patterns.enums.hotel.HotelApp
+PatternsRunner.java
+ PatternsRunner

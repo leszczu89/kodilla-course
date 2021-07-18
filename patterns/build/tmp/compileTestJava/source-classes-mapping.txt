@@ -1,4 +1,6 @@
-com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.java
- com.kodilla.patterns.singleton.SettingsFileEngineTestSuite
 com/kodilla/patterns/singleton/LoggerTestSuite.java
  com.kodilla.patterns.singleton.LoggerTestSuite
+com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.java
+ com.kodilla.patterns.singleton.SettingsFileEngineTestSuite
+com/kodilla/patterns/prototype/BoardTestSuite.java
+ com.kodilla.patterns.prototype.BoardTestSuite
