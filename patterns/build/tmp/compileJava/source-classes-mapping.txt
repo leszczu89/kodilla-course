@@ -24,3 +24,19 @@ com/kodilla/patterns/prototype/Board.java
  com.kodilla.patterns.prototype.Board
 com/kodilla/patterns/prototype/library/Library.java
  com.kodilla.patterns.prototype.library.Library
+com/kodilla/patterns/strategy/predictor/BalancedPredictor.java
+ com.kodilla.patterns.strategy.predictor.BalancedPredictor
+com/kodilla/patterns/strategy/Customer.java
+ com.kodilla.patterns.strategy.Customer
+com/kodilla/patterns/strategy/IndividualCustomer.java
+ com.kodilla.patterns.strategy.IndividualCustomer
+com/kodilla/patterns/strategy/predictor/AggressivePredictor.java
+ com.kodilla.patterns.strategy.predictor.AggressivePredictor
+com/kodilla/patterns/strategy/BuyPredictor.java
+ com.kodilla.patterns.strategy.BuyPredictor
+com/kodilla/patterns/strategy/predictor/ConservativePredictor.java
+ com.kodilla.patterns.strategy.predictor.ConservativePredictor
+com/kodilla/patterns/strategy/IndividualYoungCustomer.java
+ com.kodilla.patterns.strategy.IndividualYoungCustomer
+com/kodilla/patterns/strategy/CorporateCustomer.java
+ com.kodilla.patterns.strategy.CorporateCustomer

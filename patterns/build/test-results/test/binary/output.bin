@@ -1,16 +1,5 @@
-
-Libraries before addition: 
-Prototype library
-ë[Book{title='Second book', author='Second author', publicationDate=2012-01-12}, Book{title='First book', author='First author', publicationDate=1999-12-01}, Book{title='Third book', author='Third author', publicationDate=2020-05-03}]
-Shallow cloned library
-ë[Book{title='Second book', author='Second author', publicationDate=2012-01-12}, Book{title='First book', author='First author', publicationDate=1999-12-01}, Book{title='Third book', author='Third author', publicationDate=2020-05-03}]
-Deep cloned library
-ë[Book{title='Second book', author='Second author', publicationDate=2012-01-12}, Book{title='First book', author='First author', publicationDate=1999-12-01}, Book{title='Third book', author='Third author', publicationDate=2020-05-03}]
-
-Libraries after addition: 
-Prototype library
-µ[Book{title='New title', author='New author', publicationDate=2021-07-18}, Book{title='Second book', author='Second author', publicationDate=2012-01-12}, Book{title='First book', author='First author', publicationDate=1999-12-01}, Book{title='Third book', author='Third author', publicationDate=2020-05-03}]
-Shallow cloned library
-µ[Book{title='New title', author='New author', publicationDate=2021-07-18}, Book{title='Second book', author='Second author', publicationDate=2012-01-12}, Book{title='First book', author='First author', publicationDate=1999-12-01}, Book{title='Third book', author='Third author', publicationDate=2020-05-03}]
-Deep cloned library
-ë[Book{title='Second book', author='Second author', publicationDate=2012-01-12}, Book{title='First book', author='First author', publicationDate=1999-12-01}, Book{title='Third book', author='Third author', publicationDate=2020-05-03}]
+?Steven should: [Conservative predictor] Buy debentures of XYZ
+<Steven now should: [Aggressive predictor] Buy stock of XYZ
+?Steven should: [Conservative predictor] Buy debentures of XYZ
+6John should: [Aggressive predictor] Buy stock of XYZ
+CKodilla should: [Balanced predictor] Buy shared units of Fund XYZ

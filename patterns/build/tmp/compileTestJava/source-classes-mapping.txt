@@ -6,3 +6,5 @@ com/kodilla/patterns/prototype/BoardTestSuite.java
  com.kodilla.patterns.prototype.BoardTestSuite
 com/kodilla/patterns/prototype/library/LibraryTestSuite.java
  com.kodilla.patterns.prototype.library.LibraryTestSuite
+com/kodilla/patterns/strategy/CustomerTestSuite.java
+ com.kodilla.patterns.strategy.CustomerTestSuite
