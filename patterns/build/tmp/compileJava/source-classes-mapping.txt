@@ -76,3 +76,6 @@ com/kodilla/patterns/factory/tasks/DrivingTask.java
  com.kodilla.patterns.factory.tasks.DrivingTask
 com/kodilla/patterns/factory/tasks/Task.java
  com.kodilla.patterns.factory.tasks.Task
+com/kodilla/patterns/builder/pizza/Pizza.java
+ com.kodilla.patterns.builder.pizza.Pizza
+ com.kodilla.patterns.builder.pizza.Pizza$PizzaBuilder
