@@ -1,81 +1,97 @@
 com/kodilla/patterns/enums/hotel/PriceList.java
  com.kodilla.patterns.enums.hotel.PriceList
-com/kodilla/patterns/prototype/TasksList.java
- com.kodilla.patterns.prototype.TasksList
-PatternsRunner.java
- PatternsRunner
+com/kodilla/patterns/factory/tasks/ShoppingTask.java
+ com.kodilla.patterns.factory.tasks.ShoppingTask
 com/kodilla/patterns/singleton/SettingsFileEngine.java
  com.kodilla.patterns.singleton.SettingsFileEngine
-com/kodilla/patterns/PatternsRunner.java
- com.kodilla.patterns.PatternsRunner
-com/kodilla/patterns/enums/hotel/Season.java
- com.kodilla.patterns.enums.hotel.Season
-com/kodilla/patterns/enums/hotel/HotelApp.java
- com.kodilla.patterns.enums.hotel.HotelApp
-com/kodilla/patterns/prototype/Task.java
- com.kodilla.patterns.prototype.Task
-com/kodilla/patterns/singleton/Logger.java
- com.kodilla.patterns.singleton.Logger
-com/kodilla/patterns/prototype/Prototype.java
- com.kodilla.patterns.prototype.Prototype
-com/kodilla/patterns/prototype/library/Book.java
- com.kodilla.patterns.prototype.library.Book
+com/kodilla/patterns/strategy/social/publisher/FacebookPublisher.java
+ com.kodilla.patterns.strategy.social.publisher.FacebookPublisher
 com/kodilla/patterns/prototype/Board.java
  com.kodilla.patterns.prototype.Board
-com/kodilla/patterns/prototype/library/Library.java
- com.kodilla.patterns.prototype.library.Library
-com/kodilla/patterns/strategy/predictor/BalancedPredictor.java
- com.kodilla.patterns.strategy.predictor.BalancedPredictor
-com/kodilla/patterns/strategy/Customer.java
- com.kodilla.patterns.strategy.Customer
 com/kodilla/patterns/strategy/IndividualCustomer.java
  com.kodilla.patterns.strategy.IndividualCustomer
+com/kodilla/patterns/prototype/Task.java
+ com.kodilla.patterns.prototype.Task
 com/kodilla/patterns/strategy/predictor/AggressivePredictor.java
  com.kodilla.patterns.strategy.predictor.AggressivePredictor
-com/kodilla/patterns/strategy/BuyPredictor.java
- com.kodilla.patterns.strategy.BuyPredictor
+PatternsRunner.java
+ PatternsRunner
+com/kodilla/patterns/strategy/social/SocialPublisher.java
+ com.kodilla.patterns.strategy.social.SocialPublisher
+com/kodilla/patterns/strategy/CorporateCustomer.java
+ com.kodilla.patterns.strategy.CorporateCustomer
+com/kodilla/patterns/builder/checkers/Board.java
+ com.kodilla.patterns.builder.checkers.Board
+com/kodilla/patterns/builder/checkers/FigureFactory.java
+ com.kodilla.patterns.builder.checkers.FigureFactory
+com/kodilla/patterns/builder/checkers/Pawn.java
+ com.kodilla.patterns.builder.checkers.Pawn
+com/kodilla/patterns/strategy/predictor/BalancedPredictor.java
+ com.kodilla.patterns.strategy.predictor.BalancedPredictor
+com/kodilla/patterns/prototype/library/Library.java
+ com.kodilla.patterns.prototype.library.Library
+com/kodilla/patterns/factory/Square.java
+ com.kodilla.patterns.factory.Square
+com/kodilla/patterns/singleton/Logger.java
+ com.kodilla.patterns.singleton.Logger
+com/kodilla/patterns/strategy/social/Millenials.java
+ com.kodilla.patterns.strategy.social.Millenials
+com/kodilla/patterns/strategy/social/YGeneration.java
+ com.kodilla.patterns.strategy.social.YGeneration
+com/kodilla/patterns/factory/tasks/DrivingTask.java
+ com.kodilla.patterns.factory.tasks.DrivingTask
+com/kodilla/patterns/strategy/social/publisher/SnapchatPublisher.java
+ com.kodilla.patterns.strategy.social.publisher.SnapchatPublisher
+com/kodilla/patterns/factory/Shape.java
+ com.kodilla.patterns.factory.Shape
+com/kodilla/patterns/factory/tasks/Task.java
+ com.kodilla.patterns.factory.tasks.Task
 com/kodilla/patterns/strategy/predictor/ConservativePredictor.java
  com.kodilla.patterns.strategy.predictor.ConservativePredictor
 com/kodilla/patterns/strategy/IndividualYoungCustomer.java
  com.kodilla.patterns.strategy.IndividualYoungCustomer
-com/kodilla/patterns/strategy/CorporateCustomer.java
- com.kodilla.patterns.strategy.CorporateCustomer
-com/kodilla/patterns/strategy/social/User.java
- com.kodilla.patterns.strategy.social.User
-com/kodilla/patterns/strategy/social/Millenials.java
- com.kodilla.patterns.strategy.social.Millenials
-com/kodilla/patterns/strategy/social/publisher/FacebookPublisher.java
- com.kodilla.patterns.strategy.social.publisher.FacebookPublisher
-com/kodilla/patterns/strategy/social/YGeneration.java
- com.kodilla.patterns.strategy.social.YGeneration
-com/kodilla/patterns/strategy/social/publisher/SnapchatPublisher.java
- com.kodilla.patterns.strategy.social.publisher.SnapchatPublisher
 com/kodilla/patterns/strategy/social/ZGeneration.java
  com.kodilla.patterns.strategy.social.ZGeneration
-com/kodilla/patterns/strategy/social/SocialPublisher.java
- com.kodilla.patterns.strategy.social.SocialPublisher
-com/kodilla/patterns/strategy/social/publisher/TwitterPublisher.java
- com.kodilla.patterns.strategy.social.publisher.TwitterPublisher
-com/kodilla/patterns/factory/Square.java
- com.kodilla.patterns.factory.Square
+com/kodilla/patterns/prototype/library/Book.java
+ com.kodilla.patterns.prototype.library.Book
+com/kodilla/patterns/builder/checkers/Queen.java
+ com.kodilla.patterns.builder.checkers.Queen
+com/kodilla/patterns/strategy/social/User.java
+ com.kodilla.patterns.strategy.social.User
+com/kodilla/patterns/builder/checkers/Checkers.java
+ com.kodilla.patterns.builder.checkers.Checkers
+ com.kodilla.patterns.builder.checkers.Checkers$CheckersBuilder
 com/kodilla/patterns/factory/Rectangle.java
  com.kodilla.patterns.factory.Rectangle
-com/kodilla/patterns/factory/Shape.java
- com.kodilla.patterns.factory.Shape
-com/kodilla/patterns/factory/Circle.java
- com.kodilla.patterns.factory.Circle
+com/kodilla/patterns/enums/hotel/HotelApp.java
+ com.kodilla.patterns.enums.hotel.HotelApp
 com/kodilla/patterns/factory/ShapeFactory.java
  com.kodilla.patterns.factory.ShapeFactory
-com/kodilla/patterns/factory/tasks/ShoppingTask.java
- com.kodilla.patterns.factory.tasks.ShoppingTask
 com/kodilla/patterns/factory/tasks/TaskFactory.java
  com.kodilla.patterns.factory.tasks.TaskFactory
+com/kodilla/patterns/strategy/Customer.java
+ com.kodilla.patterns.strategy.Customer
+com/kodilla/patterns/prototype/TasksList.java
+ com.kodilla.patterns.prototype.TasksList
 com/kodilla/patterns/factory/tasks/PaintingTask.java
  com.kodilla.patterns.factory.tasks.PaintingTask
-com/kodilla/patterns/factory/tasks/DrivingTask.java
- com.kodilla.patterns.factory.tasks.DrivingTask
-com/kodilla/patterns/factory/tasks/Task.java
- com.kodilla.patterns.factory.tasks.Task
+com/kodilla/patterns/PatternsRunner.java
+ com.kodilla.patterns.PatternsRunner
+com/kodilla/patterns/enums/hotel/Season.java
+ com.kodilla.patterns.enums.hotel.Season
+com/kodilla/patterns/prototype/Prototype.java
+ com.kodilla.patterns.prototype.Prototype
+com/kodilla/patterns/strategy/BuyPredictor.java
+ com.kodilla.patterns.strategy.BuyPredictor
+com/kodilla/patterns/builder/checkers/Figure.java
+ com.kodilla.patterns.builder.checkers.Figure
+com/kodilla/patterns/factory/Circle.java
+ com.kodilla.patterns.factory.Circle
+com/kodilla/patterns/strategy/social/publisher/TwitterPublisher.java
+ com.kodilla.patterns.strategy.social.publisher.TwitterPublisher
 com/kodilla/patterns/builder/pizza/Pizza.java
  com.kodilla.patterns.builder.pizza.Pizza
  com.kodilla.patterns.builder.pizza.Pizza$PizzaBuilder
+com/kodilla/patterns/builder/bigmac/Bigmac.java
+ com.kodilla.patterns.builder.bigmac.Bigmac
+ com.kodilla.patterns.builder.bigmac.Bigmac$BigmacBuilder
