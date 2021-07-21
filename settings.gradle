@@ -2,4 +2,5 @@ rootProject.name = 'kodila-course'
 include 'patterns'
 include 'spring-web'
 include 'kodilla-testing'
+include 'kodilla-stream'
 
