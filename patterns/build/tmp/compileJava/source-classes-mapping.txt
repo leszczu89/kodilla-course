@@ -79,8 +79,9 @@ com/kodilla/patterns/PatternsRunner.java
  com.kodilla.patterns.PatternsRunner
 com/kodilla/patterns/enums/hotel/Season.java
  com.kodilla.patterns.enums.hotel.Season
-com/kodilla/patterns/prototype/Prototype.java
- com.kodilla.patterns.prototype.Prototype
+com/kodilla/patterns/builder/bigmac/Bigmac.java
+ com.kodilla.patterns.builder.bigmac.Bigmac
+ com.kodilla.patterns.builder.bigmac.Bigmac$BigmacBuilder
 com/kodilla/patterns/strategy/BuyPredictor.java
  com.kodilla.patterns.strategy.BuyPredictor
 com/kodilla/patterns/builder/checkers/Figure.java
@@ -92,6 +93,5 @@ com/kodilla/patterns/strategy/social/publisher/TwitterPublisher.java
 com/kodilla/patterns/builder/pizza/Pizza.java
  com.kodilla.patterns.builder.pizza.Pizza
  com.kodilla.patterns.builder.pizza.Pizza$PizzaBuilder
-com/kodilla/patterns/builder/bigmac/Bigmac.java
- com.kodilla.patterns.builder.bigmac.Bigmac
- com.kodilla.patterns.builder.bigmac.Bigmac$BigmacBuilder
+com/kodilla/patterns/prototype/Prototype.java
+ com.kodilla.patterns.prototype.Prototype
