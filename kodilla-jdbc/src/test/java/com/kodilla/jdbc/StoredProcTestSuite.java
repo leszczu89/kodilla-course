@@ -54,8 +54,8 @@ public class StoredProcTestSuite {
                 bestsellerCount++;
             } else notBestsellerCount++;
         }
-        assertEquals(2, bestsellerCount);
-        assertEquals(3, notBestsellerCount);
+        assertEquals(3, bestsellerCount);
+        assertEquals(2, notBestsellerCount);
         rs.close();
         statement.close();
     }
