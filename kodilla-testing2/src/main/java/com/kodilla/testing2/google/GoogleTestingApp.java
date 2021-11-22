@@ -17,7 +17,9 @@ public class GoogleTestingApp {
         WebDriver driver = WebDriverConfig.getDriver(WebDriverConfig.CHROME);  // [1]
         driver.get("https://www.google.com");
 
-        WebElement searchField = driver.findElement(By.name("btnI"));      // [4]
+        driver.findElement(By.id("L2AGLb")).click();
+
+        WebElement searchField = driver.findElement(By.name(SEARCHFIELD));      // [4]
         searchField.sendKeys("Kodilla");
         searchField.submit();
     }

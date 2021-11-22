@@ -4,7 +4,10 @@ import com.kodilla.testing2.config.WebDriverConfig;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class CrudAppTestingApp {
     public static final String XPATH_INPUT = "//html/body/main/section/form/fieldset/input"; // [1]
@@ -23,6 +26,7 @@ public class CrudAppTestingApp {
         textareaField.sendKeys("The robotic content");
 
         while (!driver.findElement(By.xpath(XPATH_WAIT_FOR)).isDisplayed());
+
 
         WebElement selectCombo = driver.findElement(By.xpath(XPATH_SELECT));
         Select selectBoard = new Select(selectCombo);
